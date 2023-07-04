@@ -1,0 +1,12 @@
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.deps.json
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.dll
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.pdb
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.csproj.AssemblyReference.cache
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.AssemblyInfoInputs.cache
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.AssemblyInfo.cs
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.csproj.CoreCompileInputs.cache
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.dll
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/refint/ShopOnline.Models.dll
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.pdb
+/Users/shakhnozaniyozova/github/online-shop/ShopOnline.Models/obj/Debug/net7.0/ref/ShopOnline.Models.dll
