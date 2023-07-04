@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/.DS_Store",
+      "PackagePath": "staticwebassets/Images/.DS_Store"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Beauty/Beauty1.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty1.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Beauty/Beauty2.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty2.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Beauty/Beauty3.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty3.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Beauty/Beauty4.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty4.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Beauty/Beauty5.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty5.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/Electronics1.png",
+      "PackagePath": "staticwebassets/Images/Electronic/Electronics1.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/Electronics3.png",
+      "PackagePath": "staticwebassets/Images/Electronic/Electronics3.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/electronic4.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronic4.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/electronic5.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronic5.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/electronics2.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronics2.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Electronic/technology6.png",
+      "PackagePath": "staticwebassets/Images/Electronic/technology6.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture1.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture1.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture2.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture2.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture3.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture3.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture4.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture4.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture6.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture6.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Furniture/Furniture7.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture7.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/Shoes1.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes1.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/Shoes2.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes2.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/Shoes3.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes3.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/Shoes5.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes5.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/Shoes6.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes6.png"
+    },
+    {
+      "Id": "/Users/shakhnozaniyozova/github/online-shop/ShopOnlineApi/wwwroot/Images/Shoes/shoes4.png",
+      "PackagePath": "staticwebassets/Images/Shoes/shoes4.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ShopOnlineApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ShopOnlineApi.props",
+      "PackagePath": "build\\ShopOnlineApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ShopOnlineApi.props",
+      "PackagePath": "buildMultiTargeting\\ShopOnlineApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ShopOnlineApi.props",
+      "PackagePath": "buildTransitive\\ShopOnlineApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
