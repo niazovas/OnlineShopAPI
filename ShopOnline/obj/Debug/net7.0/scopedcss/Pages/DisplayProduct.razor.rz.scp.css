@@ -1,0 +1,24 @@
+
+a[b-mh5omry4uq]
+{
+   text-decoration: none;
+}
+
+a:hover .card[b-mh5omry4uq] {
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ transition: box-shadow 0.3s ease-in-out;
+}
+
+.card[b-mh5omry4uq] {
+    transition: box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+a:hover img[b-mh5omry4uq] {
+    transform: scale(1.07);
+    transition: 0.5s ease-in-out;
+}
+
+img[b-mh5omry4uq] {
+    transition: 0.5s ease-in-out; 
+}
